@@ -1,14 +1,14 @@
 # Social-Network-API
 
 ## Table of Contents
-* Description
+* Description <project URL#<description>
 * Installation
- * Technology:
- * License
- * Questions?
+* Technology:
+* License
+* Questions?
 
 ## Description:
-It's an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
+This application is for creating an API for a social media network that can handle large amounts of unstructured data utilizing a NoSQL database. The user has the ability to add, delete, get, and update users, friends of users, thoughts, and reactions on those thoughts.
 
 ## Installation
 Open the application in command line, type 'npm install'. Then, 'npm start'.
