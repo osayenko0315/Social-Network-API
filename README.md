@@ -7,13 +7,13 @@
 * License
 * Questions?
 
-## Description:
+### Description:
 This application is for creating an API for a social media network that can handle large amounts of unstructured data utilizing a NoSQL database. The user has the ability to add, delete, get, and update users, friends of users, thoughts, and reactions on those thoughts.
 
-## Installation
+#### Installation
 Open the application in command line, type 'npm install'. Then, 'npm start'.
 
-## Technology:
+##### Technology:
 Project is created with:
 * Javascript
 * Node.js
@@ -21,8 +21,8 @@ Project is created with:
 * MongoDB
 * Mongoose
 
-## License
+###### License
 N/A
 
-## Questions?
+####### Questions?
 GitHUub profile: https://github.com/osayenko0315
